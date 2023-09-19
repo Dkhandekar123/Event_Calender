@@ -2,10 +2,10 @@
 
 ## How To Setup
 ```
-git clone https://github.com/sajib1066/event-calendar.git
+git clone https://github.com/Dkhandekar123/Event_Calender
 ```
 ```
-cd event-calendar
+cd Event_Calender
 ```
 ```
 python3 -m venv venv
